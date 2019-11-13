@@ -12,7 +12,7 @@ it('to Visit amazon.com', function() {
 
 //first visit amazon.com
 
-cy.visit('https://www.amazon.com/')
+cy.visit('https://www.amazon.com/') 
 
 })
 
