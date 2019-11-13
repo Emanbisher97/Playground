@@ -10,7 +10,7 @@ describe('My First Test', function() {
 
 it('to Visit amazon.com', function() {
 
-//first visit amazon.com 
+//first visit amazon.com
 
 cy.visit('https://www.amazon.com/')
 
